@@ -1,0 +1,42 @@
+*{     
+     font-size: 20px;
+     font-weight: bold;
+     margin: 0px;
+ }
+ .container{
+     margin: 0px;
+     max-width: 99%;
+     padding: 0px;
+ }
+ p{
+   margin-bottom: 0px;
+ }
+ .div2{
+     display: flex;
+     justify-content: space-around;
+ }
+ a{
+     text-decoration:none;
+     color: #000;
+ }
+ a:hover{
+     color:blueviolet;
+     text-decoration: underline;
+ }
+ li{
+     display: inline;
+     padding: 25px;
+ }
+ .fa-clipboard{
+     float:right ;
+  }
+ span{
+     color:rgb(134, 4, 255);
+     font-size: calc(1.375rem + 1.5vw);
+ }
+ #devil{
+   border-radius: 100%;
+ }
+ hr{
+   border: 2px black solid;
+ }
